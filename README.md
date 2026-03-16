@@ -15,7 +15,8 @@ This project extends CoVe — originally designed for factual recall — to math
 ├── few_shot_examples.json    # Few-shot prompts for step generation, verification planning,
 │                             #   verification execution, and revision
 ├── base_result.pkl           # Results dataframe for the baseline (direct prompting) model
-└── cove_result.pkl           # Results dataframe for the adapted CoVe model
+├── cove_result.pkl           # Results dataframe for the adapted CoVe model
+└── environment.yml           # Has packages information for the project conda environment
 ```
 
 ## File Descriptions
